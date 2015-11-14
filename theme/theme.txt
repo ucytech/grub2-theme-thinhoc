@@ -5,6 +5,7 @@
 #general settings
 title-text: ""
 desktop-color: "#333"
+desktop-image: "background.png"
 
 terminal-font: "Dejavu Sans Regular 12"
 terminal-left: "0"
@@ -31,7 +32,7 @@ terminal-border: "0"
 + image {
 	top = 50%-200
 	left = 50%-75
-    file = "arch_logo.png"
+    file = "logo.png"
 }
 
 #boot menu
@@ -52,11 +53,3 @@ terminal-border: "0"
 	item_spacing = 1
 	scrollbar = false
 }
-
-#help bar at the bottom
-+ image {
-	top = 100%-56
-	left = 50%-175
-    file = "help_bar.png"
-}
-
