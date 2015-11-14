@@ -1,7 +1,7 @@
 
-# Arch-Silence GRUB2 theme
+# Flat-Silence GRUB2 theme
 
-My flat GRUB2 theme.
+My version of Arch-Silence GRUB2 theme.
 
 <img src="./preview.png" width="400">
 
@@ -18,4 +18,8 @@ If not explicitly stated otherwise all the files in this project are distributed
 
 ## Author
 
-Filippo Ghibellini
+Maximilien Gilet
+
+## Forked from
+
+https://github.com/fghibellini/arch-silence
