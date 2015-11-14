@@ -1,5 +1,5 @@
 
-# Elegant-GRUB2 GRUB2 theme
+# Elegant-GRUB2 theme
 
 My version of Arch-Silence GRUB2 theme.
 
